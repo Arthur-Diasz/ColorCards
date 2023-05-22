@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #D7D4FF;
+    display: flex;
+    justify-content: space-around;
+}
+
+.content {
+    flex-direction: column;
+}
+
+img {
+    width: 500px;
+    height: 359.75px;
+}
+
+
+
+
+
+
+.contato {
+    background-color: #D7D4FF;
+    height: 750px;
+}
